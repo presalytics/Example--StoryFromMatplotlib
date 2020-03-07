@@ -6,7 +6,7 @@ This simple example walks through how to create story from a matplotlib chart an
 
 You can get started by cloning this repository from the command line:
 ~~~~bash
-git clone https://github.com/presalytics/Example--InteroperableStory.git
+git clone https://github.com/presalytics/Example--StoryFromMatplotlib.git
 ~~~~
 
 Then create a python virtual environment and install the required packages via pip:
