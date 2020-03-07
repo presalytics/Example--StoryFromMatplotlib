@@ -87,7 +87,7 @@ In this section, if you click on the "Share With a Colleague" button, a modal wi
 
 Add the bottom of the page, you'll see a JSON editor with the story outline.  Here, you can make view the story outline, make edits and save changes.  But be careful... ill-advied changes to the outline will cause the story to fail to render.
 
-![Outline Editor](hhttps://raw.githubusercontent.com/presalytics/Example--StoryFromMatplotlib/master/edit-outline.PNG)
+![Outline Editor](https://raw.githubusercontent.com/presalytics/Example--StoryFromMatplotlib/master/edit-outline.PNG)
 
 
 # Conclusion
